@@ -1,1 +1,1 @@
-# Praktukum-Pemrograman-Berorientasi-objek-percobaan-1
+# Praktukum-Pemrograman-Berorientasi-objek
